@@ -18,15 +18,14 @@
 ## 1. Input file name
 #  - Export called genotypes from software in format "Detailed table results" and list name of csv here
 #  - List file name here with FULL PATH to its location on your computer (pull from Box or from local computer)
-#example: file_in <- "/Users/melanielacava/Library/CloudStorage/Box-Box/GVL/LCT/X9/LCT_HybPanel_Plate1_LaCava20240226/HybPlate1_20240226_DetailedTableResults.csv"
-#example: file_in <- "/Users/melanielacava/Desktop/HybPlate1_20240226_DetailedTableResults.csv" #from local computer
-file_in <- ""
+#example: file_in <- "Box/GVL/LCT/X9/LCT_HybPanel_Plate1_20240226/HybPlate1_20240226_DetailedTableResults.csv"
+file_in <- "in.csv"
 
 
 ## 2. Desired STRUCTURE file name
 #  - List desired output STRUCTURE file name ending with .stru with FULL PATH
-#example: file_out <- "/Users/melanielacava/Desktop/HybridPlate1_20240226.stru"
-file_out <- ""
+#example: file_out <- "Desktop/HybridPlate1_20240226.stru"
+file_out <- "out.csv"
 
 
 
