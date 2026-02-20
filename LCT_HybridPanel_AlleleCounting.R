@@ -14,16 +14,14 @@
 ## 1. Input file name
 #  - Export called genotypes from software in format "Detailed table results" and list name of csv here
 #  - List file name here with FULL PATH to its location on your computer (pull from Box or from local computer)
-#example: file_in <- "/Users/melanielacava/Library/CloudStorage/Box-Box/GVL/LCT/X9/LCT_HybPanel_Plate1_LaCava20240226/HybPlate1_20240226_DetailedTableResults.csv"
-#example: file_in <- "/Users/melanielacava/Desktop/HybPlate1_20240226_DetailedTableResults.csv" #from local computer
-file_in <- "/Users/melanielacava/Library/CloudStorage/Box-Box/GVL/LCT/X9/X9 Fluidigm Data/LCT Hybrid Panel 202404_ML/LCT_HybridPanel_Plate6_LaCava20240318/LCT_HybridPanel_Plate6_LaCava20240319_DetailedTableResults_NoBadLoci.csv"
+#example: file_in <- "Box/GVL/LCT/X9/LCT_HybPanel_Plate1_20240226/HybPlate1_20240226_DetailedTableResults.csv"
+file_in <- "LCT_HybridPanel_Plate6_20240319_DetailedTableResults.csv"
 
 
 ## 2. Output file name
 #  - List desired output file name with FULL PATH to GVL/LCT/Results folder on Box (or save to your computer, then load to Box)
-#example: file_out <- "/Users/melanielacava/Library/CloudStorage/Box-Box/GVL/LCT/Results/HumboldtBasin_2024/AlleleCountingResults_ByPlate/LCTHybridPanel_Plate1_20240226.csv"
-#example: file_out <- "/Users/melanielacava/Desktop/LCTHybridPanel_Plate1_AlleleCountResults_20240226.csv" #then save to Box
-file_out <- "/Users/melanielacava/Library/CloudStorage/Box-Box/GVL/LCT/X9/X9 Fluidigm Data/LCT Hybrid Panel 202404_ML/LCT_HybridPanel_Plate6_LaCava20240318/NewResults_NoBadLoci.csv"
+#example: file_out <- "Box/GVL/LCT/Results/HumboldtBasin_2024/AlleleCountingResults_ByPlate/LCTHybridPanel_Plate1_20240226.csv"
+file_out <- "NewResults.csv"
 
 
 
